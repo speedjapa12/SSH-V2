@@ -31,7 +31,7 @@ servermessage="<h4><font color='red'>
 ▬▬▬▬▬▬▬▬✿𝙎𝙋𝙀𝙀𝘿✿▬▬▬▬▬▬▬▬
 </font></h4>
 <h4><font color='cyan'>
-↤↤↤↤↤ GCP SERVER BY ︵✰𝙎𝙋𝙀𝙀𝘿-𝙂𝘾𝙋࿐ ↦↦↦↦↦
+ ✮စေတနာကောင်း ရင် ကံကောင်းမည်၊၊࿐✰𝙎𝙋𝙀𝙀𝘿-𝙂𝘾𝙋࿐ 
 </font></h4>
 <h3><font color='red'>
 ▬▬▬▬▬▬▬▬✿𝙎𝙋𝙀𝙀𝘿✿▬▬▬▬▬▬▬▬
