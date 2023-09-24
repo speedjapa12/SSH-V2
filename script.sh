@@ -31,7 +31,7 @@ servermessage="<h3><font color='green'>
 ▬▬▬▬▬▬✿𝙒𝙀𝙇𝘾𝙊𝙈𝙀✿▬▬▬▬▬▬▬
 </font></h3>
 <h3><font color='cyan'>
- 🅖🅒🅟🇹🇼ⓉⒶⒾⓌⒶⓃ🇹🇼
+ 🅖🅒🅟🇯🇵ⒿⒶⓅⒶ🇯🇵
 ✿𝐏𝐑𝐄𝐌𝐈𝐔𝐌✿𝐒𝐄𝐑𝐕𝐄𝐑✿𝐅𝐑𝐄𝐄✿ 
 </font></h3>
 <h3><font color='green'>
@@ -56,7 +56,7 @@ echo -e "\033[1;32m===================================="
 echo -e "\033[1;32m   🌺ㅤ︵✰𝙎𝙋𝙀𝙀𝘿-𝙂𝘾𝙋࿐ㅤ🌺  " 
 echo -e "\033[1;32m===================================="
 echo ""
-echo -e "\033[1;37m▬▬▬▬▬▬✿TAIWAN✿▬▬▬▬▬▬▬"
+echo -e "\033[1;37m▬▬▬▬▬▬✿JAPA✿▬▬▬▬▬▬▬"
 echo ""
 echo -e "\033[1;32m◈ Host / IP   :⪧  \033[1;31m$IP"
 echo -e "\033[1;32m◈ Port        :⪧  \033[1;31m22"
@@ -65,7 +65,7 @@ echo -e "\033[1;32m◈ Password    :⪧  \033[1;31m$password"
 echo -e "\033[1;32m◈ Login Limit :⪧  \033[1;31m$sshlimiter"
 echo -e "\033[1;32m◈ Expire Date :⪧  \033[1;31m$gui"
 echo ""
-echo -e "\033[1;37m▬▬▬▬▬▬✿TAIWAN✿▬▬▬▬▬▬▬"
+echo -e "\033[1;37m▬▬▬▬▬▬✿JAPA✿▬▬▬▬▬▬▬"
 echo ""
 echo "------------------------------------"
 printf "Developed the script by \n"
