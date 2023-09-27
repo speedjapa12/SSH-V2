@@ -30,9 +30,19 @@ dias="2"
 servermessage="<h3><font color='green'>
 ▬▬▬▬▬▬✿𝙒𝙀𝙇𝘾𝙊𝙈𝙀✿▬▬▬▬▬▬▬
 </font></h3>
-<h3><font color='cyan'>
- 🅖🅒🅟🇯🇵ⒿⒶⓅⒶ🇯🇵
-✿𝐏𝐑𝐄𝐌𝐈𝐔𝐌✿𝐒𝐄𝐑𝐕𝐄𝐑✿𝐅𝐑𝐄𝐄✿ 
+<h3><font color='cyan'> 
+🅖🅒🅟🇸🇬ⓈⒾⓃⒼⒶⓅⓄⓇⒺ🇸🇬
+</font></h3>
+<h3><font color='red'>
+𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙈𝙔 𝘾𝙃𝘼𝙉𝙉𝙀𝙇
+https://t.me/tytechnology
+</font></h3>
+<h3><font color='blue'>
+𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙈𝙔 𝘾𝙃𝘼𝙉𝙉𝙀𝙇
+https://t.me/GCPFREE510
+</font></h3>
+<h3><font color='magenta'>
+✿𝐏𝐑𝐄𝐌𝐈𝐔𝐌✿𝐒𝐄𝐑𝐕𝐄𝐑✿𝐅𝐑𝐄𝐄✿
 </font></h3>
 <h3><font color='green'>
 ▬▬▬▬▬▬✿𝙒𝙀𝙇𝘾𝙊𝙈𝙀✿▬▬▬▬▬▬▬
